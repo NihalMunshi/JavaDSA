@@ -11,7 +11,7 @@ public class Min_Max_Element {
 	}
 	public static void min_max()
 	{
-		int[] arr = {2,40000,3,4,6,6,9,8,12,10,15,12,1,45,100,20000,18};
+		int[] arr = {2,3,4,6,6,9,8,12,10,15,12,1,45,18};
 		int temp=0;
 		for(int i=0;i<arr.length;i++)
 		{
